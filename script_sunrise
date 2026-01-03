@@ -1,4 +1,4 @@
-// El selector proporcionado por el usuario
+// El selector proporcionado por el usuario 
 const selectorTabla = '#as-monthsun'; 
 
 const tabla = document.querySelector(selectorTabla);
